@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Patikafly", "Patikafly\Patikafly.csproj", "{59BDDE3E-CEBC-4F0D-B0F0-89F5C551C832}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59BDDE3E-CEBC-4F0D-B0F0-89F5C551C832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59BDDE3E-CEBC-4F0D-B0F0-89F5C551C832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59BDDE3E-CEBC-4F0D-B0F0-89F5C551C832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59BDDE3E-CEBC-4F0D-B0F0-89F5C551C832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB94E80D-F443-47AC-9BD5-EA3F1EFC3F65}
+	EndGlobalSection
+EndGlobal
